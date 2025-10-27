@@ -1,0 +1,4 @@
+INSERT INTO students (name, domain, score)
+VALUES ('Aarav', 'Cloud', 95), ('Diya', 'DevOps', 89);
+
+SELECT * FROM students;
